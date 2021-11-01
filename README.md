@@ -8,8 +8,6 @@ VP is the abbreviation of Vortex Protocol, the world’s first public chain ford
 
 
 
-# VP-TOKEN <br>
-## Main Rinkeby network <br>
-[0x7b361DB010e92AFdBB8d4a81C11F666dC37d900A](https://rinkeby.etherscan.io/token/0x7b361DB010e92AFdBB8d4a81C11F666dC37d900A)<br>
+
 
 
