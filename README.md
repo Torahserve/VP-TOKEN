@@ -10,7 +10,7 @@ vpbridge: 0xaE65082C4e030E1543dcB2252F1C1fD4C596B7D6
 # Matic-TOKEN <br>
 ## Matic Main network <br>
 Matic token: [0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44](https://polygonscan.com/token/0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44)<br>
-vpbridge: 0x1A31d83D07967f2b3d0eec83894A6A0b80536dE4
+vpbridge: 0x1A31d83D07967f2b3d0eec83894A6A0b80536dE4 <br>
 Vortex protocol: 0x5E13e6FF9593A2e701E4f41E20709094a16C1e30
 
 # BSC-TOKEN 
