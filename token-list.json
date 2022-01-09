@@ -1,0 +1,27 @@
+{
+  "name": "Vortex Protocol",
+  "logoURI": "https://raw.githubusercontent.com/Torahserve/Bootnode/main/tokenlogo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "Pod",
+	  "Game",
+	  "web3"
+    ],
+    "timestamp": "2021-11-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 137,
+      "address": "0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44",
+      "name": "Vortex Protocol",
+      "symbol": "VP",
+      "decimals": 11,
+      "logoURI": "https://raw.githubusercontent.com/Torahserve/Bootnode/main/tokenlogo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
